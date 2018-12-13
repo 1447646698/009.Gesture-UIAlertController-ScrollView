@@ -12,6 +12,8 @@
 		3F42E93E21C22DD300A514DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F42E93C21C22DD300A514DE /* Main.storyboard */; };
 		3F42E94021C22DD500A514DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F42E93F21C22DD500A514DE /* Assets.xcassets */; };
 		3F42E94321C22DD500A514DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F42E94121C22DD500A514DE /* LaunchScreen.storyboard */; };
+		3F42E94B21C230E600A514DE /* lpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F42E94A21C230E600A514DE /* lpView.swift */; };
+		3F42E94D21C2478600A514DE /* ScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F42E94C21C2478600A514DE /* ScrollViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		3F42E93F21C22DD500A514DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F42E94221C22DD500A514DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F42E94421C22DD500A514DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F42E94A21C230E600A514DE /* lpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lpView.swift; sourceTree = "<group>"; };
+		3F42E94C21C2478600A514DE /* ScrollViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				3F42E93F21C22DD500A514DE /* Assets.xcassets */,
 				3F42E94121C22DD500A514DE /* LaunchScreen.storyboard */,
 				3F42E94421C22DD500A514DE /* Info.plist */,
+				3F42E94A21C230E600A514DE /* lpView.swift */,
+				3F42E94C21C2478600A514DE /* ScrollViewController.swift */,
 			);
 			path = "ninth-week";
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			files = (
 				3F42E93B21C22DD300A514DE /* ViewController.swift in Sources */,
 				3F42E93921C22DD300A514DE /* AppDelegate.swift in Sources */,
+				3F42E94B21C230E600A514DE /* lpView.swift in Sources */,
+				3F42E94D21C2478600A514DE /* ScrollViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
