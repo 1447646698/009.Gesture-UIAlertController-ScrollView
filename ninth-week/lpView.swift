@@ -3,7 +3,7 @@
 //  ninth-week
 //
 //  Created by student on 2018/12/13.
-//  Copyright © 2018年 ninthWork. All rights reserved.
+//  Copyright © 2018年 李潘. All rights reserved.
 //
 
 import UIKit
